@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to GioCovie account related prod APIs"
+  message: "Welcome to GioCovie account related QA APIs"
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@giocovie.com"
